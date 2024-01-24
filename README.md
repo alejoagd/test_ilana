@@ -1,6 +1,7 @@
 **Proyecto Simple-app**
 
-Desarrollo de una prueba tecnica de automatizacion para la empresa Ilana lab, la cual consiste en navegar sobre la pagina de pruebas https://demoqa.com/ .
+Proyecto realizado para prueba tecnica de automatizacion para la empresa Ilana lab, la cual consiste en navegar sobre la pagina de pruebas https://demoqa.com/ .
+El desarrollo fue realizado en lenjuaje JAVA con MAVEN y el framework SELENIUM .
 
 ## Instalación
 
