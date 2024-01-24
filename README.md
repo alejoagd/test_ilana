@@ -19,10 +19,10 @@ o realizando la ejecucion desde la terminal con los siguientes comandos :
 
 ##**Estructura del Proyecto**
 |-- main
-|   |-- java
-|   |---  | --- app
-|   |--   | --- tests
+|   |--- java
+|   |---  | ---- app
+|   |---  | ---- tests
 |-- test
-|   |-- java
+|   |--- java
 |-- Pom.xml
 
