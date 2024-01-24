@@ -1,0 +1,14 @@
+app\tests\SliderTest.class
+app\tests\BaseTest.class
+com\myagd\example\App.class
+com\myagd\example\App$EjemploAutomatizacionSelenium.class
+app\pages\SliderPage.class
+app\tests\RegistrationTest.class
+app\pages\HomePage.class
+app\pages\FormsPage.class
+app\pages\LinksPage.class
+app\pages\ElementsPage.class
+app\pages\PracticeFormPage.class
+app\pages\BasePage.class
+app\tests\RegistrationTest$Registration.class
+app\tests\LinksTest.class
